@@ -1,0 +1,13 @@
+h1
+{text-align: center;
+font-size: medium;
+color: darkgrey;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h3
+{
+    font-size: medium;
+}
+.my{
+    font-size: 10px;
+}
